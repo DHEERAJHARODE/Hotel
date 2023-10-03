@@ -10947,7 +10947,7 @@ p {
 header>.container{
    background-color: rgba(0,0,0,0.4); /* Adjust the alpha value (0.5) for transparency */
    backdrop-filter: blur(4px); /* Add blur effect */
-   border-radius: 100px;
+   border-radius: 20px;
    padding: 35px;
 }
 header{
